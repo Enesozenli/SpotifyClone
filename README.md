@@ -4,7 +4,7 @@ Popüler müzik uygulaması Spotify Clone u yapılmıştır. Bu projede API: htt
 
 <h2> Kullanılan Teknolojiler </h2>
 
-HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+HTML, SCSS ve JavaScript kullanılarak geliştirilmiştir.
 
 <h2> Çalışır halinin ekran kaydı </h2>
 
